@@ -11,5 +11,6 @@ tea_one = "green tea"
 tea_two = "blue tea"
 tea_three = "red tea"
 
+# function
 def function1(v):
     print(v)
