@@ -10,3 +10,6 @@ hello(6)
 tea_one = "green tea"
 tea_two = "blue tea"
 tea_three = "red tea"
+
+def function1(v):
+    print(v)
