@@ -17,9 +17,9 @@ print(myName)
 
 #Type Casting: take input from user ---------------
 firstNum = 10
-secondNum = input("Enter a number: ")
+# secondNum = input("Enter a number: ")
 
-print(firstNum + int(secondNum))
+# print(firstNum + int(secondNum))
 
 # operators -----------------------
 # arithmetic = +, -, *, /, %
@@ -36,4 +36,33 @@ if age > 21:
 else: 
     print("Not legal for marriage.")
     
-# loop ----------
+# loop ----------------------------
+for i in range(5):
+    print(i)
+
+# to start from 1 
+for i in range(1, 5):
+    print(i)
+
+# to skip: start - end - skip
+for i in range(1, 6, 2):
+    print(i)
+    
+# 1 + 2 + 3 + 4 ... + 100 = ?
+sum = 0
+for i in range(1, 101):
+    sum = sum + i
+    
+print(sum)
+
+# while loop ------------------------
+# while condition:
+#     statement
+
+i = 1
+sum2 = 0
+while i < 102:
+    sum2 = sum2 + i
+    i = i + 1
+    
+print(sum2)
