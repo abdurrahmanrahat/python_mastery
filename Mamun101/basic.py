@@ -8,3 +8,9 @@ myName = 'Rahat'
 
 print(a + b)
 print(myName)
+
+# data types
+
+# 10 - int 
+# 2.4 - float
+# "hello" - string
