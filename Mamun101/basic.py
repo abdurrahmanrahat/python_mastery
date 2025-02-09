@@ -25,3 +25,15 @@ print(firstNum + int(secondNum))
 # arithmetic = +, -, *, /, %
 # comparator = <, >, <=, >=
 # logical = and, or, not
+
+# conditional statement --------------------
+# if condition:
+#     statement
+
+age = 22
+if age > 21:
+    print("Legal for marriage.")
+else: 
+    print("Not legal for marriage.")
+    
+# loop ----------
