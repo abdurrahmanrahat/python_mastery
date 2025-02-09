@@ -55,6 +55,11 @@ for i in range(1, 101):
     
 print(sum)
 
+
+fruits = ['banana', 'milk', 'apple', 'mango']
+for f in fruits:
+    print(f)
+
 # while loop ------------------------
 # while condition:
 #     statement
@@ -66,3 +71,16 @@ while i < 102:
     i = i + 1
     
 print(sum2)
+
+# methods or function ---------------------------------
+
+def myFunction(name):
+    print(name)
+    
+def addTwoNumbers(a, b):
+    return a + b
+
+myFunction("Rahat Hossain")
+
+result = addTwoNumbers(4, 4)
+print(result)
