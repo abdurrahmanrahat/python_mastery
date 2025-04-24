@@ -51,7 +51,7 @@ Problem: Write a function that takes variable number of arguments and returns th
 
 <details>
 <summary>
-8. Function with **kwargs
+8. Function with **kwargs (stiks)
 </summary>
 Problem: Create a function that accepts any number of keyword arguments and prints them in the format key: value.
 </details>
