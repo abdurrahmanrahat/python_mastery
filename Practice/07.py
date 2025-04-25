@@ -11,3 +11,5 @@ name = input("Enter your full name: ")
 print(name.upper())
 print(len(name.replace(" ", "")))
 print(name.split(" "))
+
+
