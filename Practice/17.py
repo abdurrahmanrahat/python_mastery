@@ -10,3 +10,6 @@ print(result)
 
 number = int("42")
 print(number)  # আউটপুট: 42
+
+length = len('Python3')
+print(length)
